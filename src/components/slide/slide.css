@@ -1,0 +1,11 @@
+.slide-text-container{
+    text-align: center;
+    width: 650px;
+   padding: 20px 40px;
+   margin: auto;
+   border-radius: 10px;
+   font-weight: 800;
+   background-color: whitesmoke;
+   color: black;
+
+}
